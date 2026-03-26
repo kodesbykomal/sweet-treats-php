@@ -26,7 +26,7 @@ Sweet Treats is a full-stack web application developed using PHP that allows use
 - PHP
 
 **Database:**
-- MySQL *(if used in your project)*
+- MySQL 
 
 **Tools & Environment:**
 - XAMPP / WAMP / LAMP
